@@ -1,4 +1,4 @@
-baseURL = "https://thenerdguy.ml/"
+baseURL = "https://port-nerdguy.netlify.app/"
 defaultContentLanguage = "en"
 title = "TheNerdGuy"
 ignoreErrors = ["error-remote-getjson"]
